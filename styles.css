@@ -45,7 +45,7 @@ p {
 }
 
 #quote div {
-    text-indent: 35%;
+    margin-left: 50px;
     font-family: 'M PLUS Rounded 1c', sans-serif;
     font-family: 'Lobster', cursive;
     font-family: 'Pacifico', cursive;
